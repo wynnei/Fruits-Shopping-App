@@ -1,0 +1,157 @@
+{
+    "items":[
+        {
+            "sys":{"id":"1"},
+            "fields":{
+                "title":"Avocado",
+                "description":"Each",
+                "price":0.4 ,
+                "image":{"fields":{"file":{"url":"./images/avocado.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"2"},
+            "fields":{
+                "title":"Banana",
+                "description":"Each",
+                "price":0.1,
+                "image":{"fields":{"file":{"url":"./images/banana.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"3"},
+            "fields":{
+                "title":"blackgrapes",
+                "description":"300 grams",
+                "price":3.0,
+                "image":{"fields":{"file":{"url":"./images/blackgrapes.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"4"},
+            "fields":{
+                "title":"greenApple",
+                "description":"Each",
+                "price":0.4,
+                "image":{"fields":{"file":{"url":"./images/greenApple.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"5"},
+            "fields":{
+                "title":"Mangoes",
+                "description":"400 Grams",
+                "price":4.5,
+                "image":{"fields":{"file":{"url":"./images/mangoes.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"6"},
+            "fields":{
+                "title":"Oranges",
+                "description":"400 Grams",
+                "price":3.0,
+                "image":{"fields":{"file":{"url":"./images/oranges.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"7"},
+            "fields":{
+                "title":"Pawpaw",
+                "description":"700 Grams",
+                "price":7.0,
+                "image":{"fields":{"file":{"url":"./images/pawpaw.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"8"},
+            "fields":{
+                "title":"Pears",
+                "description":"500 Grams",
+                "price":4.0,
+                "image":{"fields":{"file":{"url":"./images/pears.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"9"},
+            "fields":{
+                "title":"Pineapple",
+                "description":"Each",
+                "price":2.0,
+                "image":{"fields":{"file":{"url":"./images/pineapple.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"10"},
+            "fields":{
+                "title":"Pomegranate",
+                "description":"500 Grams",
+                "price":5.0,
+                "image":{"fields":{"file":{"url":"./images/pomegranate.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"11"},
+            "fields":{
+                "title":"Red Apple",
+                "description":"Each",
+                "price":0.45,
+                "image":{"fields":{"file":{"url":"./images/redApple.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"12"},
+            "fields":{
+                "title":"Seedless Oranges",
+                "description":"700 Grams",
+                "price":3.5,
+                "image":{"fields":{"file":{"url":"./images/seedlesOrange.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"13"},
+            "fields":{
+                "title":"Sweet Oranges",
+                "description":"400 Grams",
+                "price":4.5,
+                "image":{"fields":{"file":{"url":"./images/seedlessOranges.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"14"},
+            "fields":{
+                "title":"Strawberry",
+                "description":"700 Grams",
+                "price":10.0,
+                "image":{"fields":{"file":{"url":"./images/strawberry.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"15"},
+            "fields":{
+                "title":"Tangerine",
+                "description":"700 Grams",
+                "price":5.5,
+                "image":{"fields":{"file":{"url":"./images/tangerine.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"16"},
+            "fields":{
+                "title":"Tomatoes",
+                "description":"700 Grams",
+                "price":8.5,
+                "image":{"fields":{"file":{"url":"./images/tomatoes.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"17"},
+            "fields":{
+                "title":"Watermelon",
+                "description":"1000 Grams",
+                "price":2.5,
+                "image":{"fields":{"file":{"url":"./images/watermelon.jpg"}}}
+            }
+        }
+    ]
+}

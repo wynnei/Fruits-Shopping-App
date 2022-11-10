@@ -1,0 +1,12 @@
+@mixin space{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+@mixin transition{
+   transition: all 0.4s linear;
+}
+@mixin gridc{
+    display: grid;
+    place-content: center;
+}

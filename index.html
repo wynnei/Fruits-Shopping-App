@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comfy House</title>
+    <link rel="stylesheet" href="./scss/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<body>
+    <!-- preloader -->
+    <div class="preloader">
+        <img src="./images/Hourglass.gif" alt="preloader">
+    </div>
+    <!-- header -->
+    <header id="home">
+        <!-- navbar -->
+        <nav id="nav" class="navbar">
+            <div class="nav-container">
+                <div class="nav-header">
+                    <div class="cart-btn">
+                        <span class="nav-icon"><i class="fa fa-cart-plus" style="font-size:40px ;"></i></span>
+                        <div class="cart-items">0</div> </div>
+                        <img src="./images/comfy.svg" alt="logo" class="logo">
+                    <button class="nav-toggle"><i class="fa fa-bars"></i></button> 
+                </div>
+                <!-- links -->
+                <div class="links-container">
+                    <ul class="links">
+                        <li><a href="#home" class="scroll-link">home</a></li>
+                        <li><a href="#products" class="scroll-link">Products</a></li>
+                        <li><a href="#about" class="scroll-link">About Us</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+         <!-- end of navbar -->
+        <article class="banner">
+            <div class="container">
+                <h1>healthy organic farm fruits</h1>
+                <p>You are what you eat!!</p>
+                
+                <a href="#products" >shop now</a>
+            </div>
+        </article>
+    </header>
+    <!-- end of header -->
+    <!-- product -->
+    <section id="products" class="section">
+        <div class="section-container">
+            <div class="section-title"><h2>our products</h2>
+            <p>Whether based on belief or science , certain foods have been credited with healing powers.More than two thousand years ago, the precursor of mordern medicine,Hippocrates, coined the aphorism <i> "May your food be your medicine , and your medicine be your food." </i> The play on words , by this wise Greek demonstrates that our daily food , more than merely sustaining us , may contain curative properties.Although , postulated through the course of medical history, scientific evidence has only recently established the fact that some nutrients in our diet are agents that cause or cure certain diseases.</p></div>
+                <div class="products-center">
+                    <!-- single product
+                    <article class="product">
+                        <div class="img-container">
+                            <img src="./images/KJVBible.jpg" alt="product" class="product-img">
+                            <button class="bag-btn" data-id="1"> <i class="fa fa-shopping-cart"></i> add to bag</button>
+                        </div>
+                        <h3>queen bed</h3>
+                        <h4>$ 15.6</h4>
+                    </article>
+                    end of single product    --> 
+                    
+                </div>
+        </div> 
+    </section>
+    <!-- end of product -->
+    <!-- cart -->
+    <div class="cart-overlay">
+        <div class="cart">
+            <span class="close-cart">
+                <i class="fa fa-window-close"></i>
+            </span>
+            <h2>your cart</h2>
+            <div class="cart-content">
+                <!-- cart item -->
+                <!-- <div class="cart-item">
+                    <img src="./images/KJVBible.jpg" alt="product">
+                    <div><h4>queen bed</h4>
+                    <h5>$9.00</h5>
+                <span class="remove-item">remove</span></div>
+                <div>
+                <i class="fa fa-chevron-up"></i>
+                <p class="item-amount">1</p>
+                <i class="fa fa-chevron-down"></i>
+            </div>
+                </div> -->
+                <!-- end of cart item -->
+            </div>
+            <div class="cart-footer">
+                <h3>your total : $ <span class="cart-total">0</span></h3>
+                <button class="clear-cart banner-btn">clear cart</button>
+            </div>
+        </div>
+    </div>
+    <!-- end of cart -->
+    <!-- payment method -->
+    <section id="about">
+        <div class="payment-container">
+            <h2>About us</h2>
+            <div class="payment">
+                <i class="fa fa-usd"></i>
+                <span> <h4>Payment method.</h4>
+                <p>We strictly accept payment on delivery only </p><span>
+            </div>
+            <div class="contact">
+                <i class="fa fa-phone"></i>
+                 <p>+254723951792</p>
+            </div>
+            <div class="location">
+                <i class="fa fa-map-marker"></i>
+                <p>Kisumu,Kenya</p> 
+            </div>
+        </div>
+    </section>
+    <!-- end of payment method -->
+
+
+    <!-- footer -->
+    <footer>
+        <div class="footer-container">
+            
+            <div class="social-icons">
+                <a href="#"> <i class="fa fa-facebook"></i></a>
+                <a href="#"> <i class="fa fa-twitter"></i></a>
+                <a href="#"> <i class="fa fa-instagram"></i></a>
+                <a href="#"> <i class="fa fa-google" ></i></a>
+            </div>
+            <p>Copyright &copy; <span class="date">2020</span>.all rights reserved.</p>
+        </div>
+    </footer>
+     <!-- end of footer -->
+     <a href="#home" class="scroll-link top-link"> <i class="fa fa-arrow-up"></i></a>
+    <script src="./js/main.js"></script>
+</body>
+</html>
