@@ -1,5 +1,6 @@
 # Fruits Shopping App
-![image](https://github.com/wynnei/Fruits-Shopping-App/assets/26481612/cc257a76-2663-4a03-a226-49a308da810e)
+
+![image](https://github.com/wynnei/Fruits-Shopping-App/assets/26481612/7d3789ec-9789-427c-bc24-a52f335605ff)
 This is a front end shopping app project making use of local storge  .
 
 ## Table of contents
